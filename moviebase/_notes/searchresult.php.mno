@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:movieid;datatype:int,name:uname;datatype:blob,name:file;datatype:blob,name:filesize;datatype:blob,name:extension;datatype:blob,name:type;datatype:blob,name:gender;datatype:blob,name:block;datatype:blob,name:room;datatype:blob" />
+</info>
